@@ -1,0 +1,33 @@
+1.mkdir project_dir
+2.cd project_dir
+3.touch index.html
+4.git init
+5.git status
+6.git add index.html
+7.git commit -m "1st commit Done"
+8.touch info.txt
+9.touch .gitignore thn in the .gitignore file write info.txt
+git add .gitignore
+10. git status
+11.git add index.html
+12.git commit -m "2nd commited"
+13.git log
+14.change color
+15.git checkout index.html
+16.change html
+17.git add index.html
+18. git restore index.html
+git stash
+19.git config --global alias.my-add add
+20.git my-add index.html
+21.git commit -m "3rd commit"
+22.git reset -soft
+2nd part
+25.git branch <filename>
+26.git checkout<filename>
+27.git merge <filename>
+28.git branch -D <filename>
+css assingment
+1.git remote add origin <url>
+2.git push -u origin master
+
